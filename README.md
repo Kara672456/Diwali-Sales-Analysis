@@ -8,7 +8,6 @@ A detailed Exploratory Data Analysis (EDA) project focused on identifying custom
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-yellowgreen)
 ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-lightblue)
-![EDA](https://img.shields.io/badge/Project-Type%3A-EDA-purple)
 ![Dataset](https://img.shields.io/badge/Dataset-CSV-red)
 
 ---
